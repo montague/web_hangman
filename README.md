@@ -1,4 +1,4 @@
-go_web_hangman
+web_hangman
 ==============
 
 OMG NOW YOU CAN PLAY HANGMAN ON THE FREAKING INTERNET!
